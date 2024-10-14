@@ -1,5 +1,13 @@
 #  The contact options.
 
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url:  'https://www.linkedin.com/in/ahmedtremo'
+
+# - type: tableau
+#   icon: "fab fa-tableau"
+#   url:  'https://public.tableau.com/app/profile/diaz.prasetyo/vizzes'
+
 - type: github
   icon: "fab fa-github"
 
@@ -10,9 +18,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
