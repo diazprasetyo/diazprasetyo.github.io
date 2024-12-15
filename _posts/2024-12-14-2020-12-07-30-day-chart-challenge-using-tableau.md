@@ -5,7 +5,7 @@ date: 2024-12-07 07:00:00 +0700
 categories: [Data Visualization, Tableau]
 tags: [chart, bump, network, gantt, dinosaurs]     # TAG names should always be lowercase
 description: My Tableau Journey
-media_subpath: /assets/img/posts/2020-12-07-30-day-chart-challenge-using-tableau
+media_subpath: /assets/img/posts/2020-12-07-30-day-chart-challenge
 ---
 
 In April 2024, I challenged myself to do the [#30DayChartChallenge](https://github.com/30DayChartChallenge/Edition2024), creating daily visualizations using Tableau based on specific prompts. This challenge was an incredible journey to sharpen my data storytelling and visualization skills.
